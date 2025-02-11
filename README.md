@@ -1,5 +1,4 @@
-# WSAP: Word Salad Analysis Protocol with Adaptive Thinking
-# 废话检测器
+# WSAP: Word Salad Analysis Protocol with Adaptive Thinking   废话检测器
 
 Have You Ever Experienced This?
 
@@ -21,8 +20,7 @@ If these scenarios resonate with you, you've encountered "Word Salad" - a phenom
 
 如果你有类似体验，那么你一定遇到过"Word Salad"（废话/词语沙拉）- 那些看似营养丰富，实则杂乱无章的文字组合。就像一盘没有搭配好的沙拉，虽然食材丰富，却难以品出美味。
 
-## Project Genesis
-## 项目缘起
+## Project Genesis   项目缘起
 
 In our digital age, where written communication dominates professional interaction, we process thousands of textual information pieces daily. However, quantity rarely equals quality. Verbose meeting minutes, obscure project reports, and hollow strategic statements don't just waste time and attention - they can lead to misunderstandings and flawed decisions.
 
@@ -32,37 +30,34 @@ WSAP emerges as a response to this challenge. By combining linguistic theory wit
 
 WSAP项目正是为解决这个问题而生。我将语言学理论与认知科学研究相结合，开发出一套科学的分析方法，帮助你识别、量化并优化文本内容。
 
-## Technical Foundation
-## 技术特色
+## Technical Foundation   技术特色
 
 Our analytical framework is built upon multiple theoretical pillars:
+
 我们的分析框架基于多个理论基础：
 
-### Linguistic Base
-### 语言学支撑
+### Linguistic Base   语言学支撑
 
 1. Grice's Cooperative Principle for evaluating communication efficiency
 2. Halliday's Systemic Functional Linguistics for functional analysis
 3. van Dijk's Discourse Analysis for deep meaning exploration
 
-### Information Theory
-### 信息论基础
+### Information Theory   信息论基础
 
 1. Shannon's Information Theory for entropy calculation
 2. Zipf's Law for frequency distribution analysis
 3. Information Redundancy Models for redundancy assessment
 
-### Cognitive Science
-### 认知科学视角
+### Cognitive Science   认知科学视角
 
 1. Cognitive Load Theory for mental burden evaluation
 2. Psycholinguistic Processing for complexity analysis
 3. Semantic Network Analysis for meaning structure mapping
 
-## Core Functionality
-## 核心功能
+## Core Functionality   核心功能
 
 WSAP offers analysis across six key dimensions:
+
 WSAP提供六大维度的深度分析：
 
 🎯 Information Efficiency (20%)
@@ -133,8 +128,7 @@ WSAP提供六大维度的深度分析：
 - 表达问题定位
 - 冗余长度评估
 
-## Version Note
-## 版本说明
+## Version Note   版本说明
 
 The current version (v0.1) represents an exploratory release using a heuristic development approach. We acknowledge:
 
@@ -150,28 +144,20 @@ The current version (v0.1) represents an exploratory release using a heuristic d
 - 工具支持有待加强
 - 你的反馈极其重要
 
-## Special Acknowledgment
-## 特别致谢
+## Special Acknowledgment   特别致谢
 
 This project draws significant inspiration from Thinking-Claude in both methodology and presentation. We are grateful for its demonstration of combining systematic thinking with natural expression.
 
 本项目在方法论和呈现方式上深受 Thinking-Claude 的启发。感谢该项目为我们展示了如何将系统化思维与自然流动的表达相结合。
 
-## Roadmap
-## 未来规划
+## Roadmap   未来规划
 
 v0.2: Case study database expansion
 v0.3: Automated analysis tool development
 v0.5: Collaborative analysis platform launch
 v1.0: Enterprise solution release
 
-v0.2：增加实际案例库
-v0.3：开发自动化分析工具
-v0.5：推出协同分析平台
-v1.0：发布企业级解决方案
-
-## Creating Better Communication Together
-## 一起创造
+## Creating Better Communication Together   一起创造
 
 If you aspire to:
 - Craft clearer documentation
@@ -181,29 +167,14 @@ If you aspire to:
 
 Join us in advancing this initiative!
 
-如果你也渴望：
-- 写出更清晰的文档
-- 做出更有力的演讲
-- 传递更有价值的信息
-- 实现更高效的沟通
-
-欢迎加入我们，共同推动这个项目的发展！
-
-## How to Contribute
-## 参与方式
+## How to Contribute   参与方式
 
 - Submit issues sharing your challenges and suggestions
 - Fork the project and contribute improvements
 - Participate in discussions
 - Star the project to support our work
 
-- 提交Issue分享你的困扰和建议
-- Fork项目贡献你的改进方案
-- 在Discussion中参与讨论
-- Star项目支持我们的工作
-
-## Contact
-## 联系我
+## Contact   联系我
 
 Email: livelikeimdyin@gmail.com
 Website: https://jacoblh.notion.site/
